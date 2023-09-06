@@ -1,0 +1,5 @@
+{
+  "dotnet.defaultSolution": "Reactivities.sln",
+  "csharpextensions.privateMemberPrefix": "_",
+  "csharpextensions.useThisForCtorAssignments": false
+}

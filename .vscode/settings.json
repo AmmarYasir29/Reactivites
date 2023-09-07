@@ -1,5 +1,6 @@
 {
   "dotnet.defaultSolution": "Reactivities.sln",
   "csharpextensions.privateMemberPrefix": "_",
-  "csharpextensions.useThisForCtorAssignments": false
+  "csharpextensions.useThisForCtorAssignments": false,
+  "liveServer.settings.port": 5501
 }
